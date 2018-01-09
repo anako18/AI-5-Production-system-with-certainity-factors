@@ -1,0 +1,9 @@
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod_with_coeff\obj\Debug\Prod_mod.Form1.resources
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod_with_coeff\obj\Debug\prodsys.Properties.Resources.resources
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod_with_coeff\obj\Debug\Prod_mod_сoeff.csproj.GenerateResource.Cache
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod_with_coeff\obj\Debug\prodsys.exe
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod_with_coeff\obj\Debug\prodsys.pdb
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod_with_coeff\bin\Debug\prodsys.exe.config
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod_with_coeff\bin\Debug\prodsys.exe
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod_with_coeff\bin\Debug\prodsys.pdb
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod_with_coeff\obj\Debug\Prod_mod_сoeff.csprojResolveAssemblyReference.cache
